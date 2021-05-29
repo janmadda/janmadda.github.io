@@ -4,6 +4,7 @@
 
 layout: home
 title: Home
+permalink: /
 ---
 
 This is the home page, do you like it? Probably not.
