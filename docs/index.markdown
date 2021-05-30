@@ -8,3 +8,6 @@ permalink: /
 ---
 
 This is the home page, do you like it? Probably not.
+
+Oh, and this is a link with useful links:
+[Useful Links](https://janmadda.github.io/links/)
